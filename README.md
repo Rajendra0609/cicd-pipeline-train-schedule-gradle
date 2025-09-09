@@ -13,3 +13,6 @@ Then, you can run the app with:
     npm start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
+
+
+./gradle-8.5/gradle-8.5/bin/gradle wrapper --gradle-version 8.5
